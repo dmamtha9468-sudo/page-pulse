@@ -1,0 +1,32 @@
+{
+  "name": "page-pulse-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Page Pulse",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "express",
+    "seo",
+    "audit",
+    "page-pulse"
+  ],
+  "author": "Mamtha D",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "jest-mock": "^30.4.1",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.2.2"
+  }
+}
