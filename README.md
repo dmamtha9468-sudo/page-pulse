@@ -13,7 +13,7 @@ Built as part of the **Digital Heroes Software Development Training Task**.
 > **Replace this with your Vercel URL**
 
 ```
-https://YOUR-VERCEL-URL.vercel.app
+https://page-pulse-abc123.vercel.app
 ```
 
 ### Backend API
