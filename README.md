@@ -243,13 +243,13 @@ The frontend is divided into reusable components such as Header, Footer, UrlForm
 
 ## Home Page
 
-_Add `<img width="1578" height="510" alt="image" src="https://github.com/user-attachments/assets/f1fe9f86-0c85-4231-a8fd-6a5555456475" />
-screenshots/home.png`_
+_Add <img width="1578" height="510" alt="image" src="https://github.com/user-attachments/assets/f1fe9f86-0c85-4231-a8fd-6a5555456475" />
+screenshots/home.png_
 
 ## Audit Result
 
-_Add `<img width="1488" height="875" alt="image" src="https://github.com/user-attachments/assets/2c50e11f-a6c9-4f2e-8e48-24dd78feda6b" />
-screenshots/result.png`_
+_Add <img width="1488" height="875" alt="image" src="https://github.com/user-attachments/assets/2c50e11f-a6c9-4f2e-8e48-24dd78feda6b" />
+screenshots/result.png_
 
 ---
 
